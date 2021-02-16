@@ -13,6 +13,7 @@ A company website built with html and css.
 
 ## Screenshots
 ![screenshot-1](assets/images/Capture.PNG)
+​![screenshot-2](assets/images/Capture2.PNG)
 ​
 ## Deployment
 ​[live link](https://gohen1216.github.io/homework-assignment/)
